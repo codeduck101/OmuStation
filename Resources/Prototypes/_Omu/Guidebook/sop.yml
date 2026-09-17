@@ -28,6 +28,7 @@
   id: SecuritySergeantSOP
   name: guide-entry-sop-security-sergeant
   text: /ServerInfo/_Omu/Guidebook/SoP/Jobs/Security/SergeantSOP.xml
+  priority: -5 # should appear at the top of the departmental list
 
 - type: guideEntry
   id: TrainingManuals
@@ -37,3 +38,10 @@
   - CommandTrainingManual
   - SecurityTrainingManual
   - CrewTrainingManual
+# Mentor SOPs
+# Medicus SOP
+- type: guideEntry
+  id: MedicusSOP
+  name: guide-entry-sop-medicus
+  text: /ServerInfo/_Omu/Guidebook/SoP/Jobs/Medical/MedicusSOP.xml
+  priority: -5 # should appear at the top of the departmental list

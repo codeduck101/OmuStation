@@ -5,6 +5,7 @@ guide-entry-secure-shipments = Secure Shipments
 guide-entry-sop-paramedic = Paramedic
 guide-entry-sop-psychologist = Psychologist
 guide-entry-sop-virologist = Virologist
+guide-entry-sop-medicus = Medicus
 # - Security
 guide-entry-sop-corpsman = Corpsman
 guide-entry-sop-security-sergeant = Sergeant
