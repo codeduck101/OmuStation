@@ -93,6 +93,7 @@
   - SalvageSpecialistSOP
   - ShaftMinerSOP
   - CourierSOP #Omu
+  - BosunSOP # Omu
 
 - type: guideEntry
   id: CommandSOP
@@ -116,6 +117,7 @@
   children:
   - AtmosTechSOP
   - StationEngineerSOP
+  - ForemanSOP # Omu
 
 - type: guideEntry
   id: MedicalSOP
@@ -136,6 +138,7 @@
   children:
   - ScientistSOP
   - RoboticistSOP
+  - ProfessorSOP # Omu
 
 - type: guideEntry
   id: SecuritySOP
