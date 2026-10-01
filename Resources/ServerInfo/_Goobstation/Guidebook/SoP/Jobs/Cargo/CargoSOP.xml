@@ -5,8 +5,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
 # Cargo Department SOP
 These are the list of SOPs that Cargo Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
-<!--Omu, added mentor roles-->
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Quartermaster[/bold][/color] being the Head of Staff and the [color=#846326]Bosun[/color] assisting in training:
+<!--
+Omu, added mentor roles
+-->The following jobs have entries in this Department, the [color=#1b67a5][bold]Quartermaster[/bold][/color] being the Head of Staff and the [color=#846326]Bosun[/color] assisting in training:
 - [textlink="Quartermaster" link="QuartermasterSOP"]
 - [textlink="Bosun" link="BosunSOP"]
 - [textlink="Cargo Technician" link="CargoTechSOP"]
